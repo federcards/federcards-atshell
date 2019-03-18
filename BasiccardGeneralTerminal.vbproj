@@ -42,6 +42,8 @@
     <Compile Include="main.vb" />
     <Compile Include="AssemblyInfo.vb" />
     <Compile Include="CardTerminal.vb" />
+    <Compile Include="HexStr.vb" />
+    <Compile Include="Authenticator.vb" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
 </Project>
